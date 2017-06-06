@@ -1,0 +1,10 @@
+{
+	"data": [{
+		"phone": "(012)-123-1111",
+		"addressLine1": "10, Race Course",
+		"addressLine2": "Maple Road",
+		"zipCode": 23127,
+		"city": "New City",
+		"state": "Akola"
+	}]
+}

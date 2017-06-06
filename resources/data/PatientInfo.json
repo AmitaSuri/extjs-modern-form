@@ -1,0 +1,23 @@
+{
+  "data": [{
+    "id": 1,
+    "firstName": "John",
+    "middleName": "Paul",
+    "lastName": "Doe",
+    "ssn": "123-456-7890",
+    "employer": "American Fliers",
+    "dob": "02/03/1968",
+    "gender": "Male",
+    "maritalStatus": "Married",
+    "dl": "ASGFST9",
+    "refDoctor": "Dr. M.N.George",
+    "relationshipToPatient": "Wife",
+    "relativeFirstName": "Nancy",
+    "relativeMiddleName": "Silas",
+    "relativeLastName": "Doe",
+    "relativeDob": "11/02/1972",
+    "relativeGender": "Female",
+    "relativeSsn": "231-654-9068",
+    "relativeDl": "STFKJS9"
+  }]
+}
